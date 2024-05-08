@@ -1,0 +1,5 @@
+- To review what is a "divide and conquer" algorithm
+- To review in more depth two different "divide and conquer" sorting algorithm:
+	- Merge Sort
+	- Quick Sort
+- To be able to implement them and compare their efficiency for different classes of inputs

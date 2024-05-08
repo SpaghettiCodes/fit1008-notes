@@ -1,0 +1,3 @@
+- Get familiar with the [[Dictionary ADT]]
+- Understand the properties of [[Hash Functions]]
+- Understand the high-level principles underlying [[Hash Tables]] and [[Collision Resolution]]

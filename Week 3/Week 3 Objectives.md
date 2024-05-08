@@ -1,0 +1,10 @@
+- Understand the [[Queue ADT]]
+	- Main Operation
+	- Complexity
+	- Implement Queues with arrays using [[Queue - Linear Queue|Linear]] and [[Queue - Circular Queue|Circular Queue]] implementation
+	- [[Queue - Linear Queue - Python Implementation#Problem|Advantages of Circular vs Linear Implementation]]
+- Understand the [[List ADT]]
+	- Main Operation
+	- Complexity
+	- Implement List with [[List Array - Python Implementation|arrays]]
+- Decide when to use Stacks, Queues or List

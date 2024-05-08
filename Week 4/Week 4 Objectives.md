@@ -1,0 +1,7 @@
+- Understand the [[Sorted List ADT]]
+	- Main Operation
+	- Complexity
+	- Implement SortedList ADT using [[Sorted List with Arrays - Python Implementation|arrays]]
+- Understand [[Linked Node|Linked Nodes]]
+- Implement List with [[Linked List - Python Implementation|Linked Nodes]]
+	- [[Linked List#Advantages|Linked Nodes vs Arrays]]

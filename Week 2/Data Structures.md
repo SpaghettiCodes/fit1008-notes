@@ -1,0 +1,3 @@
+- Provides a particular way in which data is physically organized in memory
+	- Allow certain operations to be performed efficiently
+- i.e. arrays

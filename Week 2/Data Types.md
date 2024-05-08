@@ -1,0 +1,6 @@
+- Common concept in lower level language
+- A classification that determines
+	- The possible values of a type
+	- The meaning of those values
+	- The operations that can be done on them
+	- The way those values are implemented

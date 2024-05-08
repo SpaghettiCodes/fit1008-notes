@@ -1,0 +1,3 @@
+- Understand the main method of conflict resolution
+	- [[Open Addressing]]
+		- [[Linear Probing]]
